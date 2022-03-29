@@ -204,6 +204,7 @@
 29/03/2022, 19:44:14 - INFO - Server is running on port: 3030
 29/03/2022, 19:44:16 - INFO - Req!!!
 29/03/2022, 19:44:24 - INFO - Req!!!
+<<<<<<< HEAD
 29/03/2022, 22:12:09 - INFO - Server is running on port: 3030
 29/03/2022, 22:32:21 - INFO - Req!!!
 29/03/2022, 23:52:29 - INFO - Req!!!
@@ -221,3 +222,32 @@
 30/03/2022, 1:25:49 - ERROR - Cannot Connect to DB | {"ok":0,"code":8000,"codeName":"AtlasError"}
 30/03/2022, 1:25:58 - ERROR - Cannot Connect to DB | {"ok":0,"code":8000,"codeName":"AtlasError"}
 30/03/2022, 1:26:21 - ERROR - Cannot Connect to DB | {"ok":0,"code":8000,"codeName":"AtlasError"}
+=======
+29.3.2022, 19:50:42 - INFO - Server is running on port: 3030
+29.3.2022, 19:52:46 - INFO - Req!!!
+29.3.2022, 19:53:08 - INFO - Req!!!
+29.3.2022, 19:53:30 - INFO - Req!!!
+29.3.2022, 19:53:51 - INFO - Req!!!
+3/29/2022, 8:14:10 PM - INFO - Server is running on port: 3030
+3/29/2022, 8:15:49 PM - INFO - Req!!!
+3/29/2022, 8:16:25 PM - INFO - Req!!!
+3/29/2022, 8:16:30 PM - INFO - Req!!!
+3/29/2022, 8:16:45 PM - INFO - Req!!!
+3/29/2022, 8:18:13 PM - INFO - Req!!!
+3/29/2022, 8:18:27 PM - INFO - Req!!!
+3/29/2022, 8:23:29 PM - INFO - Req!!!
+3/29/2022, 8:24:13 PM - INFO - Req!!!
+3/29/2022, 8:25:48 PM - INFO - Server is running on port: 3030
+3/29/2022, 8:26:30 PM - INFO - Req!!!
+3/29/2022, 8:28:10 PM - INFO - Req!!!
+3/29/2022, 8:35:13 PM - INFO - Req!!!
+3/29/2022, 8:35:35 PM - INFO - Req!!!
+3/29/2022, 8:38:10 PM - INFO - Req!!!
+3/29/2022, 8:40:05 PM - INFO - Req!!!
+3/29/2022, 8:43:36 PM - INFO - Req!!!
+3/29/2022, 8:44:38 PM - INFO - Req!!!
+3/29/2022, 8:45:23 PM - INFO - Req!!!
+3/29/2022, 8:58:49 PM - INFO - Server is running on port: 3030
+3/29/2022, 8:59:25 PM - INFO - Req!!!
+3/29/2022, 8:59:56 PM - INFO - Req!!!
+>>>>>>> 93dc7c68475c67bbb364eca6b0f1410b4c68114f
