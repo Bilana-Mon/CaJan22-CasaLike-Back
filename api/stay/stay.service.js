@@ -23,9 +23,11 @@ async function query() {
 }
 
 async function getById(stayId) {
+    console.log('stayId',stayId)
     try {
         const collection = await dbService.getCollection('stay');
         const stay = collection.findOne({ '_id': ObjectId(stayId) });
+        console.log('stay',stay)
         return stay;
     } catch (err) {
         logger.error(`While finding stay ${stayId}`, err)
