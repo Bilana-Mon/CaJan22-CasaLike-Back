@@ -7,12 +7,12 @@ module.exports = {
     getById
 }
 
-async function query(filterBy) {
+async function query() {
     try {
-        const criteria = _buildCriteria(filterBy);
-        const sort = _buildSort(filterBy);
+        // const criteria = _buildCriteria(filterBy);
+        // const sort = _buildSort(filterBy);
         const collection = await dbService.getCollection('stay');
-        var stays = await collection.find(criteria).sort(sort).toArray();
+        var stays = await collection.find().toArray();
         return stays;
     } catch (err) {
         logger.error('Cannot find stays', err)
