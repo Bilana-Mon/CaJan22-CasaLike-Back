@@ -14,7 +14,7 @@ async function query() {
         const collection = await dbService.getCollection('stay');
         console.log(collection);
         var stays = await collection.find({}).toArray();
-        console.log(stays);
+        console.log(stays.length);
         return stays;
     } catch (err) {
         logger.error('Cannot find stays', err)
