@@ -2,7 +2,7 @@ const dbService = require('../../services/db.service.js');
 const ObjectId = require('mongodb').ObjectId;
 
 module.exports = {
-    query,
+    // query,
     // getOrderById,
     add
 }
