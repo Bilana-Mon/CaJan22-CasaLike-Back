@@ -1,3 +1,3 @@
 module.exports = {
-  'dbURL': 'mongodb+srv://lala:!!!@cluster0.fjdhf.mongodb.net/lala?retryWrites=true&w=majority',
+  'dbURL': 'mongodb+srv://Bilana-Monshtein:B411997m!!!@cluster0.fjdhf.mongodb.net/casa_db?retryWrites=true&w=majority',
 }
