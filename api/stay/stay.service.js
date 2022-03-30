@@ -7,13 +7,13 @@ module.exports = {
     getById
 }
 
-async function query() {
+async function query(filterBy) {
     try {
-        // const criteria = _buildCriteria(filterBy);
+        const criteria = _buildCriteria(filterBy);
         // const sort = _buildSort(filterBy);
         const collection = await dbService.getCollection('stay');
         console.log(collection);
-        var stays = await collection.find({}).toArray();
+        var stays = await collection.find(criteria).toArray();
         console.log(stays);
         return stays;
     } catch (err) {
@@ -55,8 +55,9 @@ function _buildCriteria(filterBy) {
         const locationCriteria = { $regex: filterBy.location, $options: 'i' }
         criteria.location = locationCriteria;
     }
-    if (filterBy.countOfGuests) {
-        const GuestsCriteria = { capacity: filterBy.countOfGuests }
-        criteria.capacity = GuestsCriteria;
-    }
+
+    return criteria
+    
 }
+
+
