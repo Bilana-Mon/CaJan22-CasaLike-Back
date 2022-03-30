@@ -7,14 +7,19 @@ module.exports = {
     getById
 }
 
-async function query() {
+async function query(filterBy) {
     try {
-        // const criteria = _buildCriteria(filterBy);
+        const criteria = _buildCriteria(filterBy);
         // const sort = _buildSort(filterBy);
         const collection = await dbService.getCollection('stay');
         console.log(collection);
+<<<<<<< HEAD
         var stays = await collection.find({}).toArray();
         console.log(stays.length);
+=======
+        var stays = await collection.find(criteria).toArray();
+        console.log(stays);
+>>>>>>> 87e132bb4941f16f8fffa2edf5fdbb04cb4e5fd0
         return stays;
     } catch (err) {
         logger.error('Cannot find stays', err)
@@ -55,8 +60,9 @@ function _buildCriteria(filterBy) {
         const locationCriteria = { $regex: filterBy.location, $options: 'i' }
         criteria.location = locationCriteria;
     }
-    if (filterBy.countOfGuests) {
-        const GuestsCriteria = { capacity: filterBy.countOfGuests }
-        criteria.capacity = GuestsCriteria;
-    }
+
+    return criteria
+    
 }
+
+

@@ -204,6 +204,25 @@
 29/03/2022, 19:44:14 - INFO - Server is running on port: 3030
 29/03/2022, 19:44:16 - INFO - Req!!!
 29/03/2022, 19:44:24 - INFO - Req!!!
+<<<<<<< HEAD
+29/03/2022, 22:12:09 - INFO - Server is running on port: 3030
+29/03/2022, 22:32:21 - INFO - Req!!!
+29/03/2022, 23:52:29 - INFO - Req!!!
+29/03/2022, 23:54:16 - INFO - Req!!!
+30/03/2022, 0:11:20 - INFO - Req!!!
+30/03/2022, 0:11:26 - INFO - Req!!!
+30/03/2022, 0:11:28 - INFO - Req!!!
+30/03/2022, 0:11:32 - INFO - Req!!!
+30/03/2022, 0:11:45 - INFO - Req!!!
+30/03/2022, 0:26:45 - INFO - Req!!!
+30/03/2022, 0:30:32 - INFO - Req!!!
+30/03/2022, 0:32:03 - INFO - Req!!!
+30/03/2022, 1:03:09 - INFO - Req!!!
+30/03/2022, 1:25:37 - ERROR - Cannot Connect to DB | {"ok":0,"code":8000,"codeName":"AtlasError"}
+30/03/2022, 1:25:49 - ERROR - Cannot Connect to DB | {"ok":0,"code":8000,"codeName":"AtlasError"}
+30/03/2022, 1:25:58 - ERROR - Cannot Connect to DB | {"ok":0,"code":8000,"codeName":"AtlasError"}
+30/03/2022, 1:26:21 - ERROR - Cannot Connect to DB | {"ok":0,"code":8000,"codeName":"AtlasError"}
+=======
 29.3.2022, 19:50:42 - INFO - Server is running on port: 3030
 29.3.2022, 19:52:46 - INFO - Req!!!
 29.3.2022, 19:53:08 - INFO - Req!!!
@@ -231,6 +250,7 @@
 3/29/2022, 8:58:49 PM - INFO - Server is running on port: 3030
 3/29/2022, 8:59:25 PM - INFO - Req!!!
 3/29/2022, 8:59:56 PM - INFO - Req!!!
+<<<<<<< HEAD
 3/29/2022, 9:04:36 PM - INFO - Server is running on port: 3030
 3/29/2022, 9:06:16 PM - INFO - Req!!!
 3/29/2022, 9:06:27 PM - INFO - Req!!!
@@ -389,3 +409,246 @@
 3/31/2022, 1:04:09 AM - INFO - Req!!!
 3/31/2022, 1:04:20 AM - INFO - Req!!!
 3/31/2022, 1:15:30 AM - INFO - Server is running on port: 3030
+=======
+>>>>>>> 93dc7c68475c67bbb364eca6b0f1410b4c68114f
+30.3.2022, 14:54:20 - INFO - Server is running on port: 3030
+30.3.2022, 14:55:03 - INFO - Req!!!
+30.3.2022, 14:58:38 - INFO - Req!!!
+30.3.2022, 15:04:30 - INFO - Req!!!
+30.3.2022, 15:08:06 - INFO - Server is running on port: 3030
+<<<<<<< HEAD
+30/03/2022, 16:23:40 - INFO - Server is running on port: 3030
+30/03/2022, 16:23:48 - INFO - Req!!!
+30/03/2022, 16:23:57 - INFO - Req!!!
+30/03/2022, 16:24:47 - INFO - Req!!!
+30/03/2022, 18:25:31 - INFO - Server is running on port: 3030
+30/03/2022, 18:25:48 - INFO - Req!!!
+30/03/2022, 18:26:12 - INFO - Req!!!
+30/03/2022, 18:26:23 - INFO - Req!!!
+30/03/2022, 18:31:38 - INFO - Req!!!
+30/03/2022, 18:31:41 - INFO - Req!!!
+30/03/2022, 18:31:54 - INFO - Req!!!
+30/03/2022, 18:31:54 - INFO - Req!!!
+30/03/2022, 19:20:18 - INFO - Req!!!
+30/03/2022, 19:20:37 - INFO - Req!!!
+30/03/2022, 19:20:42 - INFO - Req!!!
+30/03/2022, 19:22:28 - INFO - Req!!!
+30/03/2022, 19:22:37 - INFO - Req!!!
+30/03/2022, 19:22:40 - INFO - Req!!!
+30/03/2022, 19:22:46 - INFO - Req!!!
+30/03/2022, 19:29:52 - INFO - Req!!!
+30/03/2022, 19:29:54 - INFO - Req!!!
+30/03/2022, 19:54:53 - INFO - Req!!!
+30/03/2022, 19:56:31 - INFO - Req!!!
+30/03/2022, 19:57:53 - INFO - Req!!!
+30/03/2022, 19:58:52 - INFO - Req!!!
+30/03/2022, 20:06:00 - INFO - Req!!!
+30/03/2022, 20:06:09 - INFO - Req!!!
+30/03/2022, 20:08:12 - INFO - Req!!!
+30/03/2022, 20:08:21 - INFO - Req!!!
+30/03/2022, 21:44:38 - INFO - Req!!!
+30/03/2022, 21:44:38 - INFO - Req!!!
+30/03/2022, 22:30:00 - INFO - Req!!!
+30/03/2022, 22:40:57 - INFO - Server is running on port: 3030
+30/03/2022, 22:41:17 - INFO - Server is running on port: 3030
+30/03/2022, 22:41:51 - INFO - Server is running on port: 3030
+30/03/2022, 22:42:50 - INFO - Server is running on port: 3030
+30/03/2022, 22:47:46 - INFO - Req!!!
+30/03/2022, 22:47:46 - ERROR - Cannot find stays | {}
+30/03/2022, 22:47:46 - ERROR - Failed to get stays | {}
+30/03/2022, 22:48:01 - INFO - Req!!!
+30/03/2022, 22:48:01 - ERROR - Cannot find stays | {}
+30/03/2022, 22:48:01 - ERROR - Failed to get stays | {}
+30/03/2022, 22:48:12 - INFO - Req!!!
+30/03/2022, 22:48:12 - ERROR - Cannot find stays | {}
+30/03/2022, 22:48:12 - ERROR - Failed to get stays | {}
+30/03/2022, 22:48:30 - INFO - Req!!!
+30/03/2022, 22:48:30 - ERROR - Cannot find stays | {}
+30/03/2022, 22:48:30 - ERROR - Failed to get stays | {}
+30/03/2022, 22:48:51 - INFO - Req!!!
+30/03/2022, 22:48:51 - ERROR - Cannot find stays | {}
+30/03/2022, 22:48:51 - ERROR - Failed to get stays | {}
+30/03/2022, 22:48:55 - INFO - Req!!!
+30/03/2022, 22:48:55 - ERROR - Cannot find stays | {}
+30/03/2022, 22:48:55 - ERROR - Failed to get stays | {}
+30/03/2022, 22:49:05 - INFO - Req!!!
+30/03/2022, 22:49:05 - ERROR - Cannot find stays | {}
+30/03/2022, 22:49:05 - ERROR - Failed to get stays | {}
+30/03/2022, 22:49:05 - INFO - Req!!!
+30/03/2022, 22:49:05 - ERROR - Cannot find stays | {}
+30/03/2022, 22:49:05 - ERROR - Failed to get stays | {}
+30/03/2022, 22:49:05 - INFO - Req!!!
+30/03/2022, 22:49:05 - ERROR - Cannot find stays | {}
+30/03/2022, 22:49:05 - ERROR - Failed to get stays | {}
+30/03/2022, 22:49:05 - INFO - Req!!!
+30/03/2022, 22:49:05 - ERROR - Cannot find stays | {}
+30/03/2022, 22:49:05 - ERROR - Failed to get stays | {}
+30/03/2022, 22:49:45 - INFO - Req!!!
+30/03/2022, 22:49:45 - ERROR - Cannot find stays | {}
+30/03/2022, 22:49:45 - ERROR - Failed to get stays | {}
+30/03/2022, 22:49:45 - INFO - Req!!!
+30/03/2022, 22:49:45 - ERROR - Cannot find stays | {}
+30/03/2022, 22:49:45 - ERROR - Failed to get stays | {}
+30/03/2022, 22:49:49 - INFO - Req!!!
+30/03/2022, 22:49:49 - ERROR - Cannot find stays | {}
+30/03/2022, 22:49:49 - ERROR - Failed to get stays | {}
+30/03/2022, 22:49:49 - INFO - Req!!!
+30/03/2022, 22:49:49 - ERROR - Cannot find stays | {}
+30/03/2022, 22:49:49 - ERROR - Failed to get stays | {}
+30/03/2022, 22:49:59 - INFO - Req!!!
+30/03/2022, 22:49:59 - ERROR - Cannot find stays | {}
+30/03/2022, 22:49:59 - ERROR - Failed to get stays | {}
+30/03/2022, 22:49:59 - INFO - Req!!!
+30/03/2022, 22:49:59 - ERROR - Cannot find stays | {}
+30/03/2022, 22:49:59 - ERROR - Failed to get stays | {}
+30/03/2022, 22:51:05 - INFO - Server is running on port: 3030
+30/03/2022, 22:51:24 - INFO - Req!!!
+30/03/2022, 22:51:24 - ERROR - Cannot find stays | {}
+30/03/2022, 22:51:24 - ERROR - Failed to get stays | {}
+30/03/2022, 22:51:32 - INFO - Req!!!
+30/03/2022, 22:51:32 - ERROR - Cannot find stays | {}
+30/03/2022, 22:51:32 - ERROR - Failed to get stays | {}
+30/03/2022, 22:51:32 - INFO - Req!!!
+30/03/2022, 22:51:32 - ERROR - Cannot find stays | {}
+30/03/2022, 22:51:32 - ERROR - Failed to get stays | {}
+30/03/2022, 22:51:33 - INFO - Req!!!
+30/03/2022, 22:51:33 - ERROR - Cannot find stays | {}
+30/03/2022, 22:51:33 - ERROR - Failed to get stays | {}
+30/03/2022, 22:51:33 - INFO - Req!!!
+30/03/2022, 22:51:33 - ERROR - Cannot find stays | {}
+30/03/2022, 22:51:33 - ERROR - Failed to get stays | {}
+30/03/2022, 22:56:33 - INFO - Server is running on port: 3030
+30/03/2022, 22:57:49 - INFO - Server is running on port: 3030
+30/03/2022, 22:58:42 - INFO - Server is running on port: 3030
+30/03/2022, 22:58:45 - INFO - Req!!!
+30/03/2022, 22:58:53 - INFO - Req!!!
+30/03/2022, 22:59:00 - INFO - Req!!!
+30/03/2022, 22:59:13 - INFO - Req!!!
+30/03/2022, 22:59:13 - INFO - Req!!!
+30/03/2022, 23:01:17 - INFO - Req!!!
+30/03/2022, 23:01:22 - INFO - Req!!!
+30/03/2022, 23:01:27 - INFO - Req!!!
+30/03/2022, 23:01:28 - INFO - Req!!!
+30/03/2022, 23:02:11 - INFO - Req!!!
+30/03/2022, 23:02:11 - INFO - Req!!!
+30/03/2022, 23:02:27 - INFO - Req!!!
+30/03/2022, 23:02:33 - INFO - Req!!!
+30/03/2022, 23:02:40 - INFO - Req!!!
+30/03/2022, 23:02:40 - INFO - Req!!!
+30/03/2022, 23:02:52 - INFO - Req!!!
+30/03/2022, 23:03:25 - INFO - Req!!!
+30/03/2022, 23:03:30 - INFO - Req!!!
+30/03/2022, 23:03:52 - INFO - Req!!!
+30/03/2022, 23:04:03 - INFO - Req!!!
+30/03/2022, 23:04:03 - INFO - Req!!!
+30/03/2022, 23:06:33 - INFO - Req!!!
+30/03/2022, 23:06:37 - INFO - Req!!!
+30/03/2022, 23:06:48 - INFO - Req!!!
+30/03/2022, 23:06:48 - INFO - Req!!!
+30/03/2022, 23:10:06 - INFO - Req!!!
+30/03/2022, 23:10:10 - INFO - Req!!!
+30/03/2022, 23:10:26 - INFO - Req!!!
+30/03/2022, 23:10:42 - INFO - Req!!!
+30/03/2022, 23:10:42 - INFO - Req!!!
+30/03/2022, 23:13:22 - INFO - Req!!!
+30/03/2022, 23:13:26 - INFO - Req!!!
+30/03/2022, 23:13:44 - INFO - Req!!!
+30/03/2022, 23:13:50 - INFO - Req!!!
+30/03/2022, 23:15:30 - INFO - Req!!!
+30/03/2022, 23:15:39 - INFO - Req!!!
+30/03/2022, 23:15:39 - INFO - Req!!!
+30/03/2022, 23:35:02 - INFO - Req!!!
+30/03/2022, 23:35:07 - INFO - Req!!!
+30/03/2022, 23:35:18 - INFO - Req!!!
+30/03/2022, 23:38:57 - INFO - Req!!!
+30/03/2022, 23:39:07 - INFO - Req!!!
+30/03/2022, 23:39:14 - INFO - Req!!!
+30/03/2022, 23:39:22 - INFO - Req!!!
+30/03/2022, 23:39:28 - INFO - Req!!!
+30/03/2022, 23:39:36 - INFO - Req!!!
+30/03/2022, 23:39:37 - INFO - Req!!!
+30/03/2022, 23:40:20 - INFO - Req!!!
+30/03/2022, 23:40:25 - INFO - Req!!!
+30/03/2022, 23:40:41 - INFO - Req!!!
+30/03/2022, 23:41:09 - INFO - Req!!!
+30/03/2022, 23:41:09 - INFO - Req!!!
+30/03/2022, 23:47:46 - INFO - Server is running on port: 3030
+30/03/2022, 23:47:51 - INFO - Req!!!
+30/03/2022, 23:48:03 - INFO - Req!!!
+30/03/2022, 23:48:03 - INFO - Req!!!
+30/03/2022, 23:48:03 - INFO - Req!!!
+30/03/2022, 23:50:14 - INFO - Server is running on port: 3030
+30/03/2022, 23:50:19 - INFO - Req!!!
+30/03/2022, 23:50:26 - INFO - Req!!!
+30/03/2022, 23:52:34 - INFO - Req!!!
+30/03/2022, 23:52:43 - INFO - Req!!!
+30/03/2022, 23:52:54 - INFO - Req!!!
+30/03/2022, 23:52:54 - INFO - Req!!!
+30/03/2022, 23:54:58 - INFO - Req!!!
+30/03/2022, 23:55:15 - INFO - Req!!!
+30/03/2022, 23:55:36 - INFO - Req!!!
+30/03/2022, 23:55:57 - INFO - Req!!!
+30/03/2022, 23:56:54 - INFO - Req!!!
+31/03/2022, 0:00:23 - INFO - Req!!!
+31/03/2022, 0:07:08 - INFO - Server is running on port: 3030
+31/03/2022, 0:07:21 - INFO - Req!!!
+31/03/2022, 0:07:51 - INFO - Req!!!
+=======
+30.3.2022, 17:14:53 - INFO - Server is running on port: 3030
+30.3.2022, 17:15:30 - INFO - Req!!!
+30.3.2022, 17:17:06 - INFO - Req!!!
+30.3.2022, 17:17:41 - INFO - Req!!!
+30.3.2022, 17:21:51 - INFO - Server is running on port: 3030
+30.3.2022, 17:21:53 - INFO - Req!!!
+30.3.2022, 17:21:53 - INFO - Req!!!
+30.3.2022, 17:25:03 - INFO - Req!!!
+30.3.2022, 17:25:03 - INFO - Req!!!
+30.3.2022, 17:25:32 - INFO - Req!!!
+30.3.2022, 17:25:33 - INFO - Req!!!
+30.3.2022, 17:26:49 - INFO - Server is running on port: 3030
+30.3.2022, 17:27:01 - INFO - Req!!!
+30.3.2022, 17:27:01 - INFO - Req!!!
+30.3.2022, 17:29:28 - INFO - Req!!!
+30.3.2022, 17:29:28 - INFO - Req!!!
+30.3.2022, 17:30:27 - INFO - Req!!!
+30.3.2022, 17:30:28 - INFO - Req!!!
+30.3.2022, 17:32:23 - INFO - Req!!!
+30.3.2022, 17:32:24 - INFO - Req!!!
+30.3.2022, 17:33:54 - INFO - Req!!!
+30.3.2022, 17:33:55 - INFO - Req!!!
+30.3.2022, 17:34:51 - INFO - Req!!!
+30.3.2022, 17:34:52 - INFO - Req!!!
+30.3.2022, 17:42:18 - INFO - Req!!!
+30.3.2022, 17:42:19 - INFO - Req!!!
+30.3.2022, 17:43:33 - INFO - Req!!!
+30.3.2022, 17:43:34 - INFO - Req!!!
+30.3.2022, 17:43:34 - ERROR - While finding stay undefined | {}
+30.3.2022, 17:43:34 - ERROR - Failed to get stay | {}
+30.3.2022, 17:45:43 - INFO - Req!!!
+30.3.2022, 17:45:44 - INFO - Req!!!
+30.3.2022, 17:46:04 - INFO - Req!!!
+30.3.2022, 17:46:04 - ERROR - While finding stay undefined | {}
+30.3.2022, 17:46:04 - ERROR - Failed to get stay | {}
+30.3.2022, 17:47:56 - INFO - Req!!!
+30.3.2022, 17:52:30 - INFO - Req!!!
+30.3.2022, 17:55:23 - INFO - Req!!!
+30.3.2022, 17:55:26 - INFO - Req!!!
+30.3.2022, 17:56:20 - INFO - Req!!!
+30.3.2022, 17:56:20 - INFO - Req!!!
+30.3.2022, 17:59:48 - INFO - Req!!!
+30.3.2022, 17:59:48 - INFO - Req!!!
+30.3.2022, 18:03:26 - INFO - Req!!!
+30.3.2022, 18:03:59 - INFO - Req!!!
+30.3.2022, 18:04:22 - INFO - Req!!!
+30.3.2022, 18:04:22 - INFO - Req!!!
+30.3.2022, 18:06:05 - INFO - Req!!!
+30.3.2022, 18:06:06 - INFO - Req!!!
+30.3.2022, 18:09:54 - INFO - Req!!!
+30.3.2022, 18:10:04 - INFO - Req!!!
+30.3.2022, 18:10:05 - INFO - Req!!!
+30.3.2022, 18:10:18 - INFO - Req!!!
+30.3.2022, 18:10:18 - INFO - Req!!!
+30.3.2022, 18:11:49 - INFO - Req!!!
+30.3.2022, 18:11:50 - INFO - Req!!!
+>>>>>>> cf46735281cc127330e325e00b7e0958ed4d4bfb
+>>>>>>> 87e132bb4941f16f8fffa2edf5fdbb04cb4e5fd0

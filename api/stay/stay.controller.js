@@ -4,10 +4,13 @@ const logger = require('../../services/logger.service.js');
 
 //GET list
 async function getStays(req, res) {
+    console.log('hi')
     try {
+        console.log('backend lala');
         var queryParams = req.query;
         console.log(queryParams);
-        const stays = await stayService.query()
+        const stays = await stayService.query(queryParams)
+        console.log('backend',stays);
         res.json(stays)
     } catch (err) {
         logger.error('Failed to get stays', err)

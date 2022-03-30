@@ -33,7 +33,7 @@ if (process.env.NODE_ENV === 'production') {
 const authRoutes = require('./api/auth/auth.routes.js');
 const userRoutes = require('./api/user/user.routes.js');
 const stayRoutes = require('./api/stay/stay.routes.js');
-// const orderRoutes = require('');
+const orderRoutes = require('./api/order/order.routes.js');
 // sockets
 
 const setupAsyncLocalStorage = require('./middlewares/setupAls.middleware');
@@ -42,7 +42,7 @@ app.all('*', setupAsyncLocalStorage);
 app.use('/api/auth', authRoutes);
 app.use('/api/user', userRoutes);
 app.use('/api/stay', stayRoutes);
-// app.use('/api/order', orderRoutes);
+app.use('/api/order', orderRoutes);
 
 app.get('/**', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'))
