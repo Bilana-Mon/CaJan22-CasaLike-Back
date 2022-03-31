@@ -13,8 +13,8 @@ async function query(filterBy) {
         // const sort = _buildSort(filterBy);
         const collection = await dbService.getCollection('stay');
         console.log(collection);
-        var stays = await collection.find(criteria).toArray();
-        console.log(stays);
+        var stays = await collection.find({}).toArray();
+        console.log(stays.length);
         return stays;
     } catch (err) {
         logger.error('Cannot find stays', err)
