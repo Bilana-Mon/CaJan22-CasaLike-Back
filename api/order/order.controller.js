@@ -14,6 +14,23 @@ async function addOrder(req, res) {
     }
 }
 
+async function getOrders(req, res) {
+    console.log('hiiiiiiiiiii')
+    try {
+        console.log('backend lalalalala');
+        // var queryParams = req.query;
+        // console.log(queryParams);
+        const orders = await orderService.query()
+        // console.log('backend', stays);
+        res.json(orders)
+    } catch (err) {
+        console.log('Failed to get orders', err);
+        logger.error('Failed to get orders', err)
+        res.status(500).send({ err: 'Failed to get orders' })
+    }
+}
+
 module.exports = {
-    addOrder
+    addOrder,
+    getOrders
 }
