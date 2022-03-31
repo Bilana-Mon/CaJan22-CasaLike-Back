@@ -52,7 +52,7 @@ function _buildCriteria(filterBy) {
     const criteria = {}
 
     if (filterBy.location) {
-        const locationCriteria = { $regex: filterBy.location, $options: 'i' }
+        const locationCriteria = {address:{street:{ $regex: filterBy.location, $options: 'i' }}} 
         criteria.location = locationCriteria;
     }
 
