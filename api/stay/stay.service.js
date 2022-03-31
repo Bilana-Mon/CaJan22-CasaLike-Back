@@ -12,8 +12,8 @@ async function query(filterBy) {
         const criteria = _buildCriteria(filterBy);
         // const sort = _buildSort(filterBy);
         const collection = await dbService.getCollection('stay');
-        console.log(collection);
-        var stays = await collection.find(criteria).toArray();
+        console.log(criteria);
+        var stays = await collection.find(criteria.location).toArray();
         console.log(stays.length);
         return stays;
     } catch (err) {
@@ -28,7 +28,7 @@ async function getById(stayId) {
     try {
         const collection = await dbService.getCollection('stay');
         const stay = collection.findOne({ '_id': ObjectId(stayId) });
-        console.log('stay', stay)
+        //console.log('stay', stay)
         return stay;
     } catch (err) {
         logger.error(`While finding stay ${stayId}`, err)
@@ -52,10 +52,10 @@ async function getById(stayId) {
 function _buildCriteria(filterBy) {
     const criteria = {}
 
-    if (filterBy.location) {
-        const locationCriteria = { $regex: filterBy.location, $options: 'i' }
-        criteria.location = locationCriteria;
-    }
+
+    const locationCriteria = { "address.city": { $regex: filterBy.location, $options: 'i' } }
+    criteria.location = locationCriteria;
+
 
     return criteria
 

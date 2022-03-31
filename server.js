@@ -26,7 +26,7 @@ if (process.env.NODE_ENV === 'production') {
         origin: ['http://127.0.0.1:8080', 'http://localhost:8080', 'http://127.0.0.1:3000', 'http://localhost:3000'],
         credentials: true
     }
-    app.use(cors())
+    //app.use(cors())
     app.use(cors(corsOptions))
 };
 
@@ -49,7 +49,7 @@ app.get('/**', (req, res) => {
 });
 
 const logger = require('./services/logger.service.js');
-const port = process.env.PORT || 3031;
+const port = process.env.PORT || 3030;
 
 const bootstarp = async () => {
     await dbService.connect();
