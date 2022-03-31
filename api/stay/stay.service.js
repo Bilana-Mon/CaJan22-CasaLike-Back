@@ -13,21 +13,22 @@ async function query(filterBy) {
         // const sort = _buildSort(filterBy);
         const collection = await dbService.getCollection('stay');
         console.log(collection);
-        var stays = await collection.find({}).toArray();
+        var stays = await collection.find(criteria).toArray();
         console.log(stays.length);
         return stays;
     } catch (err) {
+        console.log('Cannot find stays', err);
         logger.error('Cannot find stays', err)
         throw err
     }
 }
 
 async function getById(stayId) {
-    console.log('stayId',stayId)
+    console.log('stayId', stayId)
     try {
         const collection = await dbService.getCollection('stay');
         const stay = collection.findOne({ '_id': ObjectId(stayId) });
-        console.log('stay',stay)
+        console.log('stay', stay)
         return stay;
     } catch (err) {
         logger.error(`While finding stay ${stayId}`, err)
@@ -52,12 +53,12 @@ function _buildCriteria(filterBy) {
     const criteria = {}
 
     if (filterBy.location) {
-        const locationCriteria = {address:{street:{ $regex: filterBy.location, $options: 'i' }}} 
+        const locationCriteria = { $regex: filterBy.location, $options: 'i' }
         criteria.location = locationCriteria;
     }
 
     return criteria
-    
+
 }
 
 

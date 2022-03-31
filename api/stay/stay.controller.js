@@ -10,9 +10,10 @@ async function getStays(req, res) {
         var queryParams = req.query;
         console.log(queryParams);
         const stays = await stayService.query(queryParams)
-        console.log('backend',stays);
+        console.log('backend', stays);
         res.json(stays)
     } catch (err) {
+        console.log('Failed to get stays', err);
         logger.error('Failed to get stays', err)
         res.status(500).send({ err: 'Failed to get stays' })
     }

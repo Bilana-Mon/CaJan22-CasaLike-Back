@@ -49,7 +49,7 @@ app.get('/**', (req, res) => {
 });
 
 const logger = require('./services/logger.service.js');
-const port = process.env.PORT || 3030;
+const port = process.env.PORT || 3031;
 
 const bootstarp = async () => {
     await dbService.connect();
