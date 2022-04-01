@@ -44,5 +44,6 @@ async function getOrders(req, res) {
 
 module.exports = {
     addOrder,
-    getOrders
+    getOrders,
+    updateOrder
 }
