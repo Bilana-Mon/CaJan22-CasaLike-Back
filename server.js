@@ -19,9 +19,12 @@ app.use(express.json());
 app.use(session);
 app.use(express.static('public'));
 
+let config;
 if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.resolve(__dirname, 'public')))
+    config = require('./config/prod')
 } else {
+    config = require('./config/dev')
     const corsOptions = {
         origin: ['http://127.0.0.1:8080', 'http://localhost:8080', 'http://127.0.0.1:3000', 'http://localhost:3000'],
         credentials: true

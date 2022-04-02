@@ -10,7 +10,7 @@
   "scripts": {
     "dev": "set NODE_ENV=development && nodemon --ignore \"./data\" server.js",
     "prod": "node server.js",
-    "start": "set NODE_ENV=development && node index.js"
+    "start": "set NODE_ENV=development && node server.js"
   },
   "name": "casalikebackend",
   "version": "1.0.0",
