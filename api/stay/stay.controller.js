@@ -8,11 +8,12 @@ async function getStays(req, res) {
     try {
         console.log('backend lala');
         var queryParams = req.query;
-        console.log(queryParams);
+        // console.log(queryParams);
         const stays = await stayService.query(queryParams)
-        console.log('backend',stays);
+        // console.log('backend', stays);
         res.json(stays)
     } catch (err) {
+        console.log('Failed to get stays', err);
         logger.error('Failed to get stays', err)
         res.status(500).send({ err: 'Failed to get stays' })
     }
@@ -28,6 +29,7 @@ async function getStayById(req, res) {
 
         res.json(stay)
     } catch (err) {
+        console.log('Failed to get stay', err);
         logger.error('Failed to get stay', err)
         res.status(500).send({ err: 'Failed to get stay' })
     }
