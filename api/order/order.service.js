@@ -4,7 +4,8 @@ const ObjectId = require('mongodb').ObjectId;
 module.exports = {
     query,
     // getOrderById,
-    add
+    add,
+    update
 }
 
 async function query() {
@@ -34,16 +35,16 @@ async function add(order) {
     }
 }
 
-async function update(order){
-    try{
+async function update(order) {
+    try {
         let id = ObjectId(order._id)
         delete order._id
         const collection = await dbService.getCollection('order')
-        await collection.updateOne({_id:id},{$set:{...order}})
+        await collection.updateOne({ _id: id }, { $set: { ...order } })
         return order
-    }catch(err){
-        console.log(`cannot update order ${order._id}`,err)
-        logger.error(`cannot update order ${order._id}`,err)
+    } catch (err) {
+        console.log(`cannot update order ${order._id}`, err)
+        logger.error(`cannot update order ${order._id}`, err)
         throw err
     }
 }
