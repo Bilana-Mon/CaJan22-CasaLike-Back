@@ -2,18 +2,24 @@ const dbService = require('../../services/db.service.js');
 const ObjectId = require('mongodb').ObjectId;
 
 module.exports = {
-    // query,
+    query,
     // getOrderById,
-    add
+    add,
+    update
 }
 
-// async function query(){
-//     try{
-//         const collection = await dbService.getCollection('order')
-
-//     }
-
-// }
+async function query() {
+    console.log('hiyaaaa');
+    try {
+        const collection = await dbService.getCollection('order')
+        var orders = await collection.find().toArray();
+        return orders;
+    } catch (err) {
+        console.log('Cannot find orders', err);
+        logger.error('Cannot find orders', err)
+        throw err
+    }
+}
 
 async function add(order) {
     try {
@@ -26,6 +32,20 @@ async function add(order) {
         logger.error('Cannot insert order', err);
         console.log('Cannot insert order', err);
         throw err;
+    }
+}
+
+async function update(order) {
+    try {
+        let id = ObjectId(order._id)
+        delete order._id
+        const collection = await dbService.getCollection('order')
+        await collection.updateOne({ _id: id }, { $set: { ...order } })
+        return order
+    } catch (err) {
+        console.log(`cannot update order ${order._id}`, err)
+        logger.error(`cannot update order ${order._id}`, err)
+        throw err
     }
 }
 
