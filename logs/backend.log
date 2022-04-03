@@ -725,6 +725,9 @@
 31/03/2022, 8:42:51 - INFO - Req!!!
 =======
 >>>>>>> 87e132bb4941f16f8fffa2edf5fdbb04cb4e5fd0
+<<<<<<< HEAD
+3/31/2022, 12:25:09 PM - INFO - Server is running on port: 3030
+=======
 >>>>>>> c09d38cc998d4418766549773f1fea74a677b20c
 31.3.2022, 9:08:49 - INFO - Server is running on port: 3030
 31.3.2022, 9:13:52 - INFO - Server is running on port: 3030
@@ -817,6 +820,197 @@
 31.3.2022, 12:08:38 - INFO - Server is running on port: 3030
 31.3.2022, 12:08:45 - INFO - Req!!!
 31.3.2022, 12:08:59 - INFO - Req!!!
+<<<<<<< HEAD
+>>>>>>> ed49e2ac63b3d7368ea9b5c583cd57d1268e6645
+3/31/2022, 12:26:15 PM - INFO - Server is running on port: 3030
+3/31/2022, 1:10:09 PM - INFO - Req!!!
+3/31/2022, 1:23:16 PM - INFO - Req!!!
+3/31/2022, 1:23:23 PM - INFO - Req!!!
+3/31/2022, 1:23:27 PM - INFO - Req!!!
+3/31/2022, 1:23:30 PM - INFO - Req!!!
+3/31/2022, 1:23:41 PM - INFO - Req!!!
+3/31/2022, 1:23:57 PM - INFO - Req!!!
+3/31/2022, 1:33:16 PM - INFO - Req!!!
+3/31/2022, 1:43:37 PM - INFO - Req!!!
+3/31/2022, 1:47:32 PM - INFO - Req!!!
+3/31/2022, 1:47:40 PM - INFO - Req!!!
+3/31/2022, 2:24:17 PM - INFO - Req!!!
+3/31/2022, 2:33:04 PM - INFO - Req!!!
+3/31/2022, 2:59:12 PM - INFO - Req!!!
+3/31/2022, 2:59:33 PM - INFO - Req!!!
+3/31/2022, 3:00:07 PM - INFO - Req!!!
+3/31/2022, 3:07:34 PM - INFO - Req!!!
+3/31/2022, 3:10:14 PM - INFO - Req!!!
+3/31/2022, 3:11:24 PM - INFO - Req!!!
+3/31/2022, 3:16:03 PM - INFO - Req!!!
+3/31/2022, 3:16:06 PM - INFO - Req!!!
+3/31/2022, 3:33:11 PM - INFO - Req!!!
+3/31/2022, 3:33:50 PM - INFO - Req!!!
+3/31/2022, 3:58:18 PM - INFO - Req!!!
+3/31/2022, 5:12:08 PM - INFO - Req!!!
+3/31/2022, 5:42:35 PM - INFO - Req!!!
+3/31/2022, 6:41:46 PM - INFO - Req!!!
+3/31/2022, 6:43:30 PM - INFO - Req!!!
+4/1/2022, 10:16:56 AM - INFO - Req!!!
+4/1/2022, 10:17:50 AM - INFO - Req!!!
+4/1/2022, 10:17:55 AM - INFO - Req!!!
+4/1/2022, 10:23:47 AM - INFO - Req!!!
+4/1/2022, 10:24:03 AM - INFO - Req!!!
+4/1/2022, 10:40:53 AM - INFO - Req!!!
+4/1/2022, 11:19:03 AM - INFO - Req!!!
+4/1/2022, 11:20:06 AM - INFO - Req!!!
+4/1/2022, 11:21:22 AM - INFO - Req!!!
+4/1/2022, 11:33:05 AM - INFO - Req!!!
+4/1/2022, 11:33:35 AM - INFO - Req!!!
+4/1/2022, 11:49:26 AM - INFO - Req!!!
+4/1/2022, 11:52:27 AM - INFO - Req!!!
+4/1/2022, 11:53:25 AM - INFO - Req!!!
+4/1/2022, 11:56:38 AM - INFO - Req!!!
+4/1/2022, 12:04:06 PM - INFO - Req!!!
+4/1/2022, 1:50:52 PM - INFO - Req!!!
+4/1/2022, 1:57:05 PM - INFO - Req!!!
+4/1/2022, 1:57:19 PM - INFO - Req!!!
+4/1/2022, 2:00:19 PM - INFO - Req!!!
+4/1/2022, 2:03:05 PM - INFO - Req!!!
+4/1/2022, 2:24:11 PM - INFO - Req!!!
+4/1/2022, 2:35:04 PM - INFO - Req!!!
+4/1/2022, 2:37:29 PM - INFO - Req!!!
+4/1/2022, 2:38:06 PM - INFO - Req!!!
+4/1/2022, 2:38:32 PM - INFO - Req!!!
+4/1/2022, 2:39:40 PM - INFO - Req!!!
+4/1/2022, 2:40:33 PM - INFO - Req!!!
+4/1/2022, 2:42:45 PM - INFO - Req!!!
+4/1/2022, 2:43:02 PM - INFO - Req!!!
+4/1/2022, 2:43:32 PM - INFO - Req!!!
+4/1/2022, 2:48:59 PM - INFO - Req!!!
+4/1/2022, 2:49:01 PM - INFO - Req!!!
+4/1/2022, 2:50:24 PM - INFO - Req!!!
+4/1/2022, 2:54:00 PM - INFO - Req!!!
+4/1/2022, 2:54:22 PM - INFO - Req!!!
+4/1/2022, 2:54:34 PM - INFO - Req!!!
+4/1/2022, 2:57:49 PM - INFO - Req!!!
+4/1/2022, 3:10:47 PM - INFO - Req!!!
+4/1/2022, 3:11:05 PM - INFO - Req!!!
+4/1/2022, 3:28:12 PM - INFO - Req!!!
+4/1/2022, 3:28:22 PM - INFO - Req!!!
+4/1/2022, 3:28:23 PM - INFO - Req!!!
+4/1/2022, 3:28:59 PM - INFO - Req!!!
+4/1/2022, 3:31:44 PM - INFO - Req!!!
+4/1/2022, 3:33:14 PM - INFO - Req!!!
+4/1/2022, 3:35:39 PM - INFO - Req!!!
+4/1/2022, 3:35:57 PM - INFO - Req!!!
+4/1/2022, 3:38:22 PM - INFO - Req!!!
+4/1/2022, 3:38:23 PM - INFO - Req!!!
+4/1/2022, 3:38:27 PM - INFO - Req!!!
+4/1/2022, 3:38:28 PM - INFO - Req!!!
+4/1/2022, 3:39:12 PM - INFO - Req!!!
+4/1/2022, 4:21:14 PM - INFO - Req!!!
+4/1/2022, 4:26:03 PM - INFO - Req!!!
+4/1/2022, 4:36:00 PM - INFO - Req!!!
+4/1/2022, 4:37:49 PM - INFO - Req!!!
+4/1/2022, 4:40:58 PM - INFO - Req!!!
+4/1/2022, 5:10:31 PM - INFO - Req!!!
+4/1/2022, 5:11:34 PM - INFO - Req!!!
+4/1/2022, 6:08:45 PM - INFO - Req!!!
+4/1/2022, 6:09:15 PM - INFO - Req!!!
+4/1/2022, 6:10:42 PM - INFO - Req!!!
+4/1/2022, 6:10:42 PM - INFO - Req!!!
+4/1/2022, 6:12:57 PM - INFO - Req!!!
+4/1/2022, 6:12:57 PM - INFO - Req!!!
+4/1/2022, 7:36:31 PM - INFO - Req!!!
+4/1/2022, 7:39:55 PM - INFO - Req!!!
+4/1/2022, 9:06:26 PM - INFO - Req!!!
+4/1/2022, 9:06:27 PM - INFO - Req!!!
+4/1/2022, 9:23:17 PM - INFO - Req!!!
+4/1/2022, 9:23:18 PM - INFO - Req!!!
+4/1/2022, 9:23:22 PM - INFO - Req!!!
+4/1/2022, 9:23:23 PM - INFO - Req!!!
+4/1/2022, 9:23:24 PM - INFO - Req!!!
+4/1/2022, 9:23:25 PM - INFO - Req!!!
+4/1/2022, 9:23:47 PM - INFO - Req!!!
+4/1/2022, 9:24:17 PM - INFO - Req!!!
+4/1/2022, 9:24:26 PM - INFO - Req!!!
+4/1/2022, 9:34:23 PM - INFO - Req!!!
+4/1/2022, 9:36:54 PM - INFO - Req!!!
+4/1/2022, 9:36:55 PM - INFO - Req!!!
+4/1/2022, 9:45:44 PM - INFO - Req!!!
+4/1/2022, 9:50:33 PM - INFO - Req!!!
+4/1/2022, 9:50:34 PM - INFO - Req!!!
+4/1/2022, 10:05:04 PM - INFO - Req!!!
+4/1/2022, 10:11:32 PM - INFO - Req!!!
+4/1/2022, 10:11:32 PM - INFO - Req!!!
+4/1/2022, 11:22:29 PM - INFO - Req!!!
+4/1/2022, 11:22:54 PM - INFO - Req!!!
+4/1/2022, 11:37:48 PM - INFO - Req!!!
+4/1/2022, 11:38:06 PM - INFO - Req!!!
+4/1/2022, 11:47:36 PM - INFO - Req!!!
+4/1/2022, 11:53:51 PM - INFO - Req!!!
+4/2/2022, 12:31:10 AM - INFO - Req!!!
+4/2/2022, 12:31:12 AM - INFO - Req!!!
+4/2/2022, 12:42:21 AM - INFO - Req!!!
+4/2/2022, 12:42:22 AM - INFO - Req!!!
+4/2/2022, 12:47:13 AM - INFO - Req!!!
+4/2/2022, 12:47:14 AM - INFO - Req!!!
+4/2/2022, 12:51:41 AM - INFO - Req!!!
+4/2/2022, 12:51:42 AM - INFO - Req!!!
+4/2/2022, 12:57:16 AM - INFO - Req!!!
+4/2/2022, 12:57:17 AM - INFO - Req!!!
+4/2/2022, 1:01:29 AM - INFO - Req!!!
+4/2/2022, 1:01:30 AM - INFO - Req!!!
+4/2/2022, 1:02:39 AM - INFO - Req!!!
+4/2/2022, 1:08:01 AM - INFO - Req!!!
+4/2/2022, 1:08:02 AM - INFO - Req!!!
+4/2/2022, 1:16:13 AM - INFO - Req!!!
+4/2/2022, 1:16:14 AM - INFO - Req!!!
+4/2/2022, 1:29:46 AM - INFO - Req!!!
+4/2/2022, 1:29:47 AM - INFO - Req!!!
+4/2/2022, 1:31:45 AM - INFO - Req!!!
+4/2/2022, 1:31:46 AM - INFO - Req!!!
+4/2/2022, 1:39:12 AM - INFO - Req!!!
+4/2/2022, 1:42:33 AM - INFO - Req!!!
+4/2/2022, 1:42:46 AM - INFO - Req!!!
+4/2/2022, 1:42:52 AM - INFO - Req!!!
+4/2/2022, 1:44:02 AM - INFO - Req!!!
+4/2/2022, 1:44:35 AM - INFO - Req!!!
+4/2/2022, 1:45:56 AM - INFO - Req!!!
+4/2/2022, 1:47:06 AM - INFO - Req!!!
+4/2/2022, 1:47:07 AM - INFO - Req!!!
+4/2/2022, 1:51:25 AM - INFO - Req!!!
+4/2/2022, 1:51:27 AM - INFO - Req!!!
+4/2/2022, 1:51:28 AM - INFO - Req!!!
+4/2/2022, 1:51:29 AM - INFO - Req!!!
+4/2/2022, 2:22:09 AM - INFO - Req!!!
+4/2/2022, 2:22:16 AM - INFO - Req!!!
+4/2/2022, 2:41:34 AM - INFO - Req!!!
+4/2/2022, 2:41:35 AM - INFO - Req!!!
+4/2/2022, 2:41:36 AM - INFO - Req!!!
+4/2/2022, 2:41:38 AM - INFO - Req!!!
+4/2/2022, 2:43:01 AM - INFO - Req!!!
+4/2/2022, 2:43:01 AM - INFO - Req!!!
+4/2/2022, 2:44:28 AM - INFO - Req!!!
+4/2/2022, 3:20:51 AM - INFO - Req!!!
+4/2/2022, 3:20:51 AM - INFO - Req!!!
+4/2/2022, 3:20:52 AM - INFO - Req!!!
+4/2/2022, 3:20:52 AM - INFO - Req!!!
+4/2/2022, 10:21:32 AM - INFO - Req!!!
+4/2/2022, 10:21:33 AM - INFO - Req!!!
+4/2/2022, 10:21:33 AM - INFO - Req!!!
+4/2/2022, 10:21:33 AM - INFO - Req!!!
+4/2/2022, 10:31:30 AM - INFO - Req!!!
+4/2/2022, 10:31:30 AM - INFO - Req!!!
+4/2/2022, 10:32:07 AM - INFO - Req!!!
+4/2/2022, 10:32:50 AM - INFO - Req!!!
+4/2/2022, 10:33:00 AM - INFO - Req!!!
+4/2/2022, 10:33:11 AM - INFO - Req!!!
+4/2/2022, 10:33:12 AM - INFO - Req!!!
+4/2/2022, 10:33:55 AM - INFO - Req!!!
+4/2/2022, 10:33:55 AM - INFO - Req!!!
+4/2/2022, 10:40:12 AM - INFO - Req!!!
+4/2/2022, 10:44:21 AM - INFO - Req!!!
+4/2/2022, 10:44:22 AM - INFO - Req!!!
+4/2/2022, 10:47:52 AM - INFO - Req!!!
+4/2/2022, 10:50:50 AM - INFO - Req!!!
+=======
 31.3.2022, 13:02:00 - INFO - Req!!!
 31.3.2022, 13:28:04 - INFO - Req!!!
 31.3.2022, 13:39:15 - INFO - Req!!!
@@ -940,8 +1134,110 @@
 2.4.2022, 9:58:32 - ERROR - Failed to update order | {}
 2.4.2022, 9:59:37 - INFO - Server is running on port: 3030
 2.4.2022, 9:59:47 - INFO - Req!!!
+<<<<<<< HEAD
 2.4.2022, 23:20:53 - INFO - Server is running on port: 3030
 2.4.2022, 23:24:13 - INFO - Server is running on port: 3030
 2.4.2022, 23:29:27 - INFO - Server is running on port: 3030
 2.4.2022, 23:30:30 - INFO - Server is running on port: 3030
 2.4.2022, 23:31:08 - INFO - Req!!!
+=======
+>>>>>>> b6cb36c81335e4de4764a605de065b21343aae79
+4/2/2022, 10:59:34 AM - INFO - Server is running on port: 3030
+4/2/2022, 11:07:04 AM - INFO - Server is running on port: 3030
+4/2/2022, 11:07:24 AM - INFO - Req!!!
+4/2/2022, 11:07:45 AM - INFO - Req!!!
+4/2/2022, 11:30:46 AM - INFO - Req!!!
+4/2/2022, 11:32:00 AM - INFO - Req!!!
+4/2/2022, 11:32:01 AM - INFO - Req!!!
+4/2/2022, 11:32:03 AM - INFO - Req!!!
+4/2/2022, 11:32:04 AM - INFO - Req!!!
+4/2/2022, 11:32:15 AM - INFO - Req!!!
+4/2/2022, 12:35:08 PM - INFO - Req!!!
+4/2/2022, 12:35:08 PM - INFO - Req!!!
+4/2/2022, 12:36:10 PM - INFO - Req!!!
+4/2/2022, 12:36:10 PM - INFO - Req!!!
+4/2/2022, 12:37:10 PM - INFO - Req!!!
+4/2/2022, 12:37:11 PM - INFO - Req!!!
+4/2/2022, 12:37:35 PM - INFO - Req!!!
+4/2/2022, 12:40:26 PM - INFO - Req!!!
+4/2/2022, 12:40:27 PM - INFO - Req!!!
+4/2/2022, 12:43:39 PM - INFO - Req!!!
+4/2/2022, 12:44:52 PM - INFO - Req!!!
+4/2/2022, 12:45:11 PM - INFO - Req!!!
+4/2/2022, 12:45:21 PM - INFO - Req!!!
+4/2/2022, 12:45:38 PM - INFO - Req!!!
+4/2/2022, 12:45:51 PM - INFO - Req!!!
+4/2/2022, 12:45:59 PM - INFO - Req!!!
+4/2/2022, 12:48:13 PM - INFO - Req!!!
+4/2/2022, 12:48:14 PM - INFO - Req!!!
+4/2/2022, 12:56:30 PM - INFO - Req!!!
+4/2/2022, 12:56:31 PM - INFO - Req!!!
+4/2/2022, 12:59:05 PM - INFO - Req!!!
+4/2/2022, 12:59:06 PM - INFO - Req!!!
+4/2/2022, 1:00:07 PM - INFO - Req!!!
+4/2/2022, 1:00:08 PM - INFO - Req!!!
+4/2/2022, 1:00:52 PM - INFO - Req!!!
+4/2/2022, 1:00:53 PM - INFO - Req!!!
+4/2/2022, 1:01:02 PM - INFO - Req!!!
+4/2/2022, 1:01:03 PM - INFO - Req!!!
+4/2/2022, 1:01:19 PM - INFO - Req!!!
+4/2/2022, 1:01:31 PM - INFO - Req!!!
+4/2/2022, 1:01:46 PM - INFO - Req!!!
+4/2/2022, 1:01:48 PM - INFO - Req!!!
+4/2/2022, 1:02:05 PM - INFO - Req!!!
+4/2/2022, 1:02:16 PM - INFO - Req!!!
+4/2/2022, 1:02:32 PM - INFO - Req!!!
+4/2/2022, 1:02:35 PM - INFO - Req!!!
+4/2/2022, 1:04:41 PM - INFO - Req!!!
+4/2/2022, 1:04:43 PM - INFO - Req!!!
+4/2/2022, 1:18:31 PM - INFO - Req!!!
+4/2/2022, 1:18:31 PM - INFO - Req!!!
+4/2/2022, 1:35:52 PM - INFO - Req!!!
+4/2/2022, 1:35:56 PM - INFO - Req!!!
+4/2/2022, 1:35:59 PM - INFO - Req!!!
+4/2/2022, 1:36:07 PM - INFO - Req!!!
+4/2/2022, 1:39:30 PM - INFO - Req!!!
+4/2/2022, 1:41:38 PM - INFO - Req!!!
+4/2/2022, 1:41:39 PM - INFO - Req!!!
+4/2/2022, 1:53:39 PM - INFO - Req!!!
+4/2/2022, 1:53:39 PM - INFO - Req!!!
+4/2/2022, 2:20:01 PM - INFO - Req!!!
+4/2/2022, 2:20:01 PM - INFO - Req!!!
+4/2/2022, 2:48:07 PM - INFO - Req!!!
+4/2/2022, 2:48:14 PM - INFO - Req!!!
+4/2/2022, 2:53:32 PM - INFO - Req!!!
+4/2/2022, 2:53:59 PM - INFO - Req!!!
+4/2/2022, 2:59:11 PM - INFO - Req!!!
+4/2/2022, 3:05:03 PM - INFO - Req!!!
+4/2/2022, 3:06:35 PM - INFO - Req!!!
+4/2/2022, 3:47:29 PM - INFO - Req!!!
+4/2/2022, 3:47:29 PM - INFO - Req!!!
+4/2/2022, 3:47:29 PM - INFO - Req!!!
+4/2/2022, 4:03:35 PM - INFO - Req!!!
+4/2/2022, 5:00:29 PM - INFO - Req!!!
+4/2/2022, 5:00:54 PM - INFO - Req!!!
+4/2/2022, 5:02:57 PM - INFO - Req!!!
+4/2/2022, 5:03:57 PM - INFO - Req!!!
+4/2/2022, 5:12:47 PM - INFO - Req!!!
+4/2/2022, 5:21:12 PM - INFO - Req!!!
+4/2/2022, 6:13:59 PM - INFO - Req!!!
+4/2/2022, 6:15:03 PM - INFO - Req!!!
+4/2/2022, 7:12:06 PM - INFO - Req!!!
+4/2/2022, 7:12:07 PM - INFO - Req!!!
+4/2/2022, 7:58:32 PM - INFO - Req!!!
+4/2/2022, 7:58:34 PM - INFO - Req!!!
+4/2/2022, 7:59:13 PM - INFO - Req!!!
+4/2/2022, 7:59:32 PM - INFO - Req!!!
+4/2/2022, 8:00:51 PM - INFO - Req!!!
+4/2/2022, 8:01:06 PM - INFO - Req!!!
+4/2/2022, 8:03:37 PM - INFO - Req!!!
+4/2/2022, 8:03:37 PM - INFO - Req!!!
+4/2/2022, 8:04:03 PM - INFO - Req!!!
+4/2/2022, 8:04:45 PM - INFO - Req!!!
+4/2/2022, 8:05:20 PM - INFO - Req!!!
+4/2/2022, 8:06:25 PM - INFO - Req!!!
+4/2/2022, 8:06:26 PM - INFO - Req!!!
+4/2/2022, 8:06:33 PM - INFO - Req!!!
+4/3/2022, 6:31:18 AM - INFO - Req!!!
+4/3/2022, 6:31:49 AM - ERROR - Failed to get stay | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-g5svmb-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff0000000000000045","commonWireVersion":13}}
+>>>>>>> 6a9136e057774f65b0c40ed9f7467b721cf5ab4d
