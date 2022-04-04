@@ -1241,3 +1241,14 @@
 4/3/2022, 6:31:18 AM - INFO - Req!!!
 4/3/2022, 6:31:49 AM - ERROR - Failed to get stay | {"reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-g5svmb-shard-0","maxSetVersion":7,"maxElectionId":"7fffffff0000000000000045","commonWireVersion":13}}
 >>>>>>> 6a9136e057774f65b0c40ed9f7467b721cf5ab4d
+4.4.2022, 17:55:10 - INFO - Server is running on port: 3030
+4.4.2022, 18:01:59 - INFO - Req!!!
+4.4.2022, 18:02:00 - INFO - Req!!!
+4.4.2022, 18:02:13 - INFO - Req!!!
+4.4.2022, 18:07:25 - INFO - Req!!!
+4.4.2022, 18:07:26 - INFO - Req!!!
+4.4.2022, 18:09:05 - INFO - Req!!!
+4.4.2022, 19:21:47 - INFO - Req!!!
+4.4.2022, 19:23:28 - INFO - Req!!!
+4.4.2022, 19:23:28 - INFO - Req!!!
+4.4.2022, 20:15:51 - INFO - Server is running on port: 3030
